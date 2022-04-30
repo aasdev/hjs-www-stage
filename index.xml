@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HJS Educational Funding</title>
-    <link>http://hjseducation.org/</link>
+    <link>https://aasdev.github.io/hjs-www-stage/</link>
     <description>Recent content on HJS Educational Funding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 13:59:27 -0700</lastBuildDate><atom:link href="http://hjseducation.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 13:59:27 -0700</lastBuildDate><atom:link href="https://aasdev.github.io/hjs-www-stage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thank you</title>
-      <link>http://hjseducation.org/donate/completed/</link>
+      <link>https://aasdev.github.io/hjs-www-stage/donate/completed/</link>
       <pubDate>Sat, 30 Apr 2022 14:29:54 -0700</pubDate>
       
-      <guid>http://hjseducation.org/donate/completed/</guid>
+      <guid>https://aasdev.github.io/hjs-www-stage/donate/completed/</guid>
       <description>Thank you! Your generous donation will be used to fund educational opportunities for underpvileged students, and help them fulfill their dreams and aspirations.
 HJS Educational Funding is a registered 501(c)(3) non-profit and donations are tax-deductible.</description>
     </item>
     
     <item>
       <title>Contact us</title>
-      <link>http://hjseducation.org/contact/</link>
+      <link>https://aasdev.github.io/hjs-www-stage/contact/</link>
       <pubDate>Sat, 23 Apr 2022 17:27:21 -0700</pubDate>
       
-      <guid>http://hjseducation.org/contact/</guid>
+      <guid>https://aasdev.github.io/hjs-www-stage/contact/</guid>
       <description>We welcome your feedback, suggestions, and questions. Please contact us at </description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>http://hjseducation.org/about/</link>
+      <link>https://aasdev.github.io/hjs-www-stage/about/</link>
       <pubDate>Sat, 23 Apr 2022 17:26:56 -0700</pubDate>
       
-      <guid>http://hjseducation.org/about/</guid>
+      <guid>https://aasdev.github.io/hjs-www-stage/about/</guid>
       <description>About the foundation Halimbi Jamal Shaikh (HJS) Educational Funding was established to promote education as a means for economically disadvantaged Indian minority communities to improve their conditions and fulfill their aspirations. These minorities come from Muslim and non-Muslim backgrounds, and are educationally deprived compared with their counterpart majority communities.
 These communities hail from Kumta and neighboring villages on the West coast of Karnataka State, 500 miles south of Mumbai and 100 miles south of Goa.</description>
     </item>
