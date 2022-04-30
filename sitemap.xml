@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aasdev.github.io/hjs-www-stage/contact/</loc>
+    <loc>http://hjseducation.org/donate/completed/</loc>
+    <lastmod>2022-04-30T14:29:54-07:00</lastmod>
+  </url><url>
+    <loc>http://hjseducation.org/contact/</loc>
     <lastmod>2022-04-23T17:27:21-07:00</lastmod>
   </url><url>
-    <loc>https://aasdev.github.io/hjs-www-stage/donate/</loc>
+    <loc>http://hjseducation.org/donate/</loc>
     <lastmod>2022-04-23T17:27:04-07:00</lastmod>
   </url><url>
-    <loc>https://aasdev.github.io/hjs-www-stage/about/</loc>
+    <loc>http://hjseducation.org/about/</loc>
     <lastmod>2022-04-23T17:26:56-07:00</lastmod>
   </url><url>
-    <loc>https://aasdev.github.io/hjs-www-stage/</loc>
+    <loc>http://hjseducation.org/</loc>
     <lastmod>2022-04-22T13:59:27-07:00</lastmod>
   </url><url>
-    <loc>https://aasdev.github.io/hjs-www-stage/categories/</loc>
+    <loc>http://hjseducation.org/categories/</loc>
   </url><url>
-    <loc>https://aasdev.github.io/hjs-www-stage/tags/</loc>
+    <loc>http://hjseducation.org/tags/</loc>
   </url>
 </urlset>

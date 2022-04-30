@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HJS Educational Funding</title>
-    <link>https://aasdev.github.io/hjs-www-stage/categories/</link>
+    <link>http://hjseducation.org/categories/</link>
     <description>Recent content in Categories on HJS Educational Funding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aasdev.github.io/hjs-www-stage/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://hjseducation.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,36 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HJS Educational Funding</title>
-    <link>https://aasdev.github.io/hjs-www-stage/</link>
+    <link>http://hjseducation.org/</link>
     <description>Recent content on HJS Educational Funding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 13:59:27 -0700</lastBuildDate><atom:link href="https://aasdev.github.io/hjs-www-stage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 13:59:27 -0700</lastBuildDate><atom:link href="http://hjseducation.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact us</title>
-      <link>https://aasdev.github.io/hjs-www-stage/contact/</link>
-      <pubDate>Sat, 23 Apr 2022 17:27:21 -0700</pubDate>
+      <title>Thank you</title>
+      <link>http://hjseducation.org/donate/completed/</link>
+      <pubDate>Sat, 30 Apr 2022 14:29:54 -0700</pubDate>
       
-      <guid>https://aasdev.github.io/hjs-www-stage/contact/</guid>
-      <description></description>
+      <guid>http://hjseducation.org/donate/completed/</guid>
+      <description>Thank you! Your generous donation will be used to fund educational opportunities for underpvileged students, and help them fulfill their dreams and aspirations.
+HJS Educational Funding is a registered 501(c)(3) non-profit and donations are tax-deductible.</description>
     </item>
     
     <item>
-      <title>Donate</title>
-      <link>https://aasdev.github.io/hjs-www-stage/donate/</link>
-      <pubDate>Sat, 23 Apr 2022 17:27:04 -0700</pubDate>
+      <title>Contact us</title>
+      <link>http://hjseducation.org/contact/</link>
+      <pubDate>Sat, 23 Apr 2022 17:27:21 -0700</pubDate>
       
-      <guid>https://aasdev.github.io/hjs-www-stage/donate/</guid>
-      <description>Donate online now Funds collected by HJS Educational Funding is to provide financial assistance to socially and economically disadvantaged students in primary, secondary schools in coastal areas in India and give scholarships to poor students pursuing higher education in India to improve their prospects for better job opportunities. Recipients of Scholarships will be required to submit progress reports of their studies, including their grade transcripts attested by the school registrar and their advisors/professors.</description>
+      <guid>http://hjseducation.org/contact/</guid>
+      <description>We welcome your feedback, suggestions, and questions. Please contact us at </description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>https://aasdev.github.io/hjs-www-stage/about/</link>
+      <link>http://hjseducation.org/about/</link>
       <pubDate>Sat, 23 Apr 2022 17:26:56 -0700</pubDate>
       
-      <guid>https://aasdev.github.io/hjs-www-stage/about/</guid>
-      <description>About the foundation Halimbi Jamal Shaikh (HJS) Educational Funding was established to promote education among economically and socially disadvantaged Indian Minority communities and their children who are unable to pay fees and pursue their education to improve their economic and educational conditions. These communities are economically disadvantage groups who hail from Kumta and neighboring villages. Kumta Taluk and its neighboring villages are located on the west coast of Karnataka 500 miles south of Mumbai and 100 miles south of Goa.</description>
+      <guid>http://hjseducation.org/about/</guid>
+      <description>About the foundation Halimbi Jamal Shaikh (HJS) Educational Funding was established to promote education as a means for economically disadvantaged Indian minority communities to improve their conditions and fulfill their aspirations. These minorities come from Muslim and non-Muslim backgrounds, and are educationally deprived compared with their counterpart majority communities.
+These communities hail from Kumta and neighboring villages on the West coast of Karnataka State, 500 miles south of Mumbai and 100 miles south of Goa.</description>
     </item>
     
   </channel>

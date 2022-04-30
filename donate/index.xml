@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Donates on HJS Educational Funding</title>
+    <title>Donate on HJS Educational Funding</title>
     <link>http://hjseducation.org/donate/</link>
-    <description>Recent content in Donates on HJS Educational Funding</description>
+    <description>Recent content in Donate on HJS Educational Funding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Apr 2022 17:27:04 -0700</lastBuildDate><atom:link href="http://hjseducation.org/donate/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Donate</title>
-      <link>http://hjseducation.org/donate/donate/</link>
-      <pubDate>Sat, 23 Apr 2022 17:27:04 -0700</pubDate>
+      <title>Thank you</title>
+      <link>http://hjseducation.org/donate/completed/</link>
+      <pubDate>Sat, 30 Apr 2022 14:29:54 -0700</pubDate>
       
-      <guid>http://hjseducation.org/donate/donate/</guid>
-      <description></description>
+      <guid>http://hjseducation.org/donate/completed/</guid>
+      <description>Thank you! Your generous donation will be used to fund educational opportunities for underpvileged students, and help them fulfill their dreams and aspirations.
+HJS Educational Funding is a registered 501(c)(3) non-profit and donations are tax-deductible.</description>
     </item>
     
   </channel>
